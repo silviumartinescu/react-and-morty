@@ -1,0 +1,16 @@
+.rotate {
+  translate: 40px;
+  opacity: 75%;
+  width: 20%;
+  transform: rotate(280deg);
+  -ms-transform: rotate(280deg); /* IE 9 */
+  -moz-transform: rotate(280deg); /* Firefox */
+  -webkit-transform: rotate(280deg); /* Safari and Chrome */
+  -o-transform: rotate(280deg); /* Opera */
+}
+
+@media (max-width: 576px) {
+  .rotate {
+    width: 20%;
+  }
+}
