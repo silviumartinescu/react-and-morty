@@ -29,7 +29,7 @@ seamless experience on both desktop and mobile devices.
 To run this project locally, follow these steps:
 
 Clone the repository:
-"git clone https://github.com/silviumartinescu/react-and-morty"
+"git clone git@github.com:silviumartinescu/react-and-morty.git"
 
 Navigate to the project directory:
 "cd react-and-morty"
